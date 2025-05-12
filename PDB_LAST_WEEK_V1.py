@@ -1,7 +1,6 @@
 import requests
 import json
 import os
-import difflib
 from datetime import datetime, timedelta
 print(f"Libraries Loaded")
 # Define Start_Date as yesterday's date in the proper format
@@ -114,6 +113,7 @@ COUNT = 0
 TITLES_COUNT = 0
 # Open the output file for writing
 with open(output_file_path, 'w') as output_file:
+    output_file.write(f"Code Developed by Jacob Wolfe: https://linktr.ee/jawolfe97?utm_source=linktree_admin_share \nLink to Code Library: https://github.com/jawolfe97/PDB_Last_Week\n")
     output_file.write("-" * 50 + "\n")
     # Iterate through each PDB ID
     for pdb_id in pdb_ids:
@@ -126,12 +126,6 @@ with open(output_file_path, 'w') as output_file:
             title = entry_data.get("struct", {}).get("title", "No title available")
             primary_citation = entry_data.get("rcsb_primary_citation", {}).get("title", "No title available")
             
-            # Check if title is at least 50% similar to any title already in the list
-            #is_similar = any(
-            #    difflib.SequenceMatcher(None, title, existing_title).ratio() > 0.80
-            #    for existing_title in TITLES
-            #)
-            #if not is_similar:
             if primary_citation not in TITLES:
                 TITLES.append(primary_citation)
                 link = f"https://www.rcsb.org/structure/{pdb_id}"
