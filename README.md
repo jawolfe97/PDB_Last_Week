@@ -1,4 +1,7 @@
 # PDB Last Week
+
+![Workflow Diagram](PDB_Last_Week.png)  
+
 This repository contains a single python file. The file edits a PDB Search API query between two dates to retrieve files from yesterday and the 7 days prior (inclusive). The search query output is then used as the input to check each PDB code and make a nicely formatted output in a second document detailing each uniuqe citation from that period with a link containing a PDB code from that citation. 
 
 The code is easily adaptabile for different PDB Search API queries as well as any date range outide of the retrieved queries. 
