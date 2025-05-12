@@ -5,7 +5,8 @@ The code is easily adaptabile for different PDB Search API queries as well as an
 
 **System Requirements:**  
 
-Code was run on Windows with Python 3.8.5 and may need additional re-formatting for Linux or MacOS.
+Code was run on Windows with Python 3.8.5 and may need additional re-formatting for Linux or MacOS.  
+
 **Required Libraries:**  
 
 requests
