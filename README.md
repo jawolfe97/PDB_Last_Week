@@ -9,8 +9,8 @@ Code was run on Windows with Python 3.8.5 and may need additional re-formatting 
 
 **Required Libraries:**  
 
-requests
-json
-os
+requests  
+json  
+os  
 difflib
 
