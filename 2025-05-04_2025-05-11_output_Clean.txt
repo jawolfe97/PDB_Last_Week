@@ -1,0 +1,322 @@
+Code Developed by Jacob Wolfe: https://linktr.ee/jawolfe97?utm_source=linktree_admin_share
+Link to Code Library: https://github.com/jawolfe97/PDB_Last_Week
+--------------------------------------------------
+Title: Structural basis for saxitoxin congener binding and neutralization by anuran saxiphilins.
+Link: https://www.rcsb.org/structure/8V65
+--------------------------------------------------
+Title: Diarylpyrimidine-evolved HIV-1 non-nucleoside reverse transcriptase inhibitors show improved resistance and pharmacokinetic profiles against highly drug-resistant strains
+Link: https://www.rcsb.org/structure/8VU9
+--------------------------------------------------
+Title: Title: Structure of the extracellular region of the adhesion GPCR CELSR1 reveals a compact module which regulates G protein-coupling
+Link: https://www.rcsb.org/structure/8VY2
+--------------------------------------------------
+Title: Crystal Structure of shaft pilin PilA from Streptococcus sanguinis
+Link: https://www.rcsb.org/structure/8WXD
+--------------------------------------------------
+Title: SARS-CoV-2 3CLpro bound to covalent inhibitor
+Link: https://www.rcsb.org/structure/8WZ0
+--------------------------------------------------
+Title: Multiple structures of RNA polymerase II isolated from human nuclei by ChIP-CryoEM analysis
+Link: https://www.rcsb.org/structure/8XRJ
+--------------------------------------------------
+Title: The humanized antibody Hu1C8 binds to a distinct epitope of CD47 in a novel metal ion-dependent manner to induce low RBC toxicity and effective antitumour activity
+Link: https://www.rcsb.org/structure/8ZCA
+--------------------------------------------------
+Title: Crystal structure of HCoV-NL63 main protease with X77
+Link: https://www.rcsb.org/structure/8ZCC
+--------------------------------------------------
+Title: Crystal Structure of a novel Aldehyde Dehydrogenase from Klebsiella pneumoniae
+Link: https://www.rcsb.org/structure/8ZCX
+--------------------------------------------------
+Title: crystal structure of Alpha-kinase 1 N+K in complex with CDP-hep
+Link: https://www.rcsb.org/structure/8ZD3
+--------------------------------------------------
+Title: Cryo-EM structure of the gdTCR-ECD
+Link: https://www.rcsb.org/structure/8ZD4
+--------------------------------------------------
+Title: Crystal Structure of Concanavalin A Complexed with Lysine
+Link: https://www.rcsb.org/structure/8ZE7
+--------------------------------------------------
+Title: Quorum Sensing master regulator HapR of Photobacterium marinum
+Link: https://www.rcsb.org/structure/8ZF2
+--------------------------------------------------
+Title: Quorum Sensing Master Regulator SmcR of Photobacterium profundum
+Link: https://www.rcsb.org/structure/8ZF3
+--------------------------------------------------
+Title: Structural Basis for the Catalytic Mechanism of ATP-Dependent Diazotase CmaA6.
+Link: https://www.rcsb.org/structure/8ZTZ
+--------------------------------------------------
+Title: Solution structures and effects of a platinum compound successively bound MYC G-quadruplex.
+Link: https://www.rcsb.org/structure/9B6Z
+--------------------------------------------------
+Title: Assessing the structural boundaries of broadly reactive antibody interactions with diverse H3 influenza hemagglutinin proteins
+Link: https://www.rcsb.org/structure/9B7G
+--------------------------------------------------
+Title: Paws Derived Peptides with two difulfides adopt different structural folds.
+Link: https://www.rcsb.org/structure/9BF4
+--------------------------------------------------
+Title: Human Structural Homologues of SARS-CoV-2 PL pro as Anti-Targets: A Strategic Panel Analysis.
+Link: https://www.rcsb.org/structure/9BF8
+--------------------------------------------------
+Title: Lipid-mediated gating of a miniature mechanosensitive MscS channel from Trypanosoma cruzi
+Link: https://www.rcsb.org/structure/9BGQ
+--------------------------------------------------
+Title: YqiA, Klebsiella pneumoniae serine hydrolase, unbound
+Link: https://www.rcsb.org/structure/9BI7
+--------------------------------------------------
+Title: Room Temperature Structures of Oncogenic KRAS-G12D bound to MRTX-1133
+Link: https://www.rcsb.org/structure/9BL0
+--------------------------------------------------
+Title: Bacterial ubiquitin ligase engineered for small molecule and protein target identification
+Link: https://www.rcsb.org/structure/9BLH
+--------------------------------------------------
+Title: T450C mutant of repeat domain 2 from Clostridium perfringens adhesin CPE0147 without intramolecular ester bond
+Link: https://www.rcsb.org/structure/9BLO
+--------------------------------------------------
+Title: HIV-1 neutralizing antibodies in SHIV-infected macaques recapitulate structurally divergent modes of human V2 apex recognition with a single D gene
+Link: https://www.rcsb.org/structure/9BNK
+--------------------------------------------------
+Title: Cryo-EM captures the coordination of asymmetric electron transfer through a di-copper site in DPOR.
+Link: https://www.rcsb.org/structure/9BUO
+--------------------------------------------------
+Title: A SuFEx-based TB clinical candidate irreversibly inhibits Pks13
+Link: https://www.rcsb.org/structure/9C0P
+--------------------------------------------------
+Title: Crystal structure of chimeric hemagglutinin cH5/1 in complex with broad protective antibody 31.b.09
+Link: https://www.rcsb.org/structure/9C0U
+--------------------------------------------------
+Title: Crystal structure of chimeric hemagglutinin cH11/1 in complex with broad protective antibody 31.b.09
+Link: https://www.rcsb.org/structure/9C0X
+--------------------------------------------------
+Title: Crystal structure of chimeric hemagglutinin cH11/1 in complex with broad protective antibody 3E1
+Link: https://www.rcsb.org/structure/9C22
+--------------------------------------------------
+Title: Molecular basis of human GABA transporter 3 inhibition.
+Link: https://www.rcsb.org/structure/9CP4
+--------------------------------------------------
+Title: De novo design of porphyrin-containing proteins as efficient and stereoselective catalysts
+Link: https://www.rcsb.org/structure/9CTE
+--------------------------------------------------
+Title: Structural basis for the activation of proteinase-activated receptors PAR1 and PAR2.
+Link: https://www.rcsb.org/structure/9D0A
+--------------------------------------------------
+Title: Molecular mechanism of Activin receptor inhibition by Delta-like non-canonical Notch ligand 1
+Link: https://www.rcsb.org/structure/9D20
+--------------------------------------------------
+Title: Structure of HalB in complex with oligodeoxyadenylate
+Link: https://www.rcsb.org/structure/9DBH
+--------------------------------------------------
+Title: A DNA-gated molecular guard controls bacterial Hailong anti-phage defense
+Link: https://www.rcsb.org/structure/9DBI
+--------------------------------------------------
+Title: The apo LETM1 F-EF-hand adopts a closed conformation that underlies a multi-modal sensory role in mitochondria.
+Link: https://www.rcsb.org/structure/9DMR
+--------------------------------------------------
+Title: Structure and evolution of Photosystem I in the early-branching cyanobacterium Anthocerotibacter panamensis
+Link: https://www.rcsb.org/structure/9E0J
+--------------------------------------------------
+Title: Structure-guided engineering of CD112 receptor variants for optimized immunotherapy.
+Link: https://www.rcsb.org/structure/9E6Y
+--------------------------------------------------
+Title: A novel "bio-tag" for cryo-EM studies based on the small, electron-dense protein Csp1
+Link: https://www.rcsb.org/structure/9E7J
+--------------------------------------------------
+Title: Murine norovirus allosteric escape mutants mimic gut activation.
+Link: https://www.rcsb.org/structure/9EAN
+--------------------------------------------------
+Title: Structural basis of human CHD1 nucleosome recruitment and pausing
+Link: https://www.rcsb.org/structure/9EAR
+--------------------------------------------------
+Title: Structural characterisation of a cysteine-rich conotoxin, sigma( sigma )S-GVIIIA, extracted from the defensive venom of the marine cone snail Conus geographus.
+Link: https://www.rcsb.org/structure/9EBE
+--------------------------------------------------
+Title: Mitochondria regulate MR1 protein expression and produce self-metabolites that activate MR1-restricted T cells
+Link: https://www.rcsb.org/structure/9EK6
+--------------------------------------------------
+Title: Engineered nucleoside 2'-deoxyribonsyltransferase enzymes enable scalable synthesis of diverse nucleoside analogues
+Link: https://www.rcsb.org/structure/9EMX
+--------------------------------------------------
+Title: Single-stranded DNA drives sigma subunit loading onto mycobacterial RNA polymerase to unlock initiation-competent conformations.
+Link: https://www.rcsb.org/structure/9FJR
+--------------------------------------------------
+Title: Characterization of structure and dynamics of the apical stem loop of s2m from SCoV-2 Delta by NMR spectroscopy, validated by MD and SAXS
+Link: https://www.rcsb.org/structure/9FM4
+--------------------------------------------------
+Title: Synthesis and evaluation of tetrahydrobenzo[cd]indole derivatives as glycogen phosphorylase inhibitors
+Link: https://www.rcsb.org/structure/9FRM
+--------------------------------------------------
+Title: Design, synthesis and biological evaluation of a novel non-Gemini analog of UVB1 and crystal structure of its complex with the vitamin D receptor.
+Link: https://www.rcsb.org/structure/9FW8
+--------------------------------------------------
+Title: Rubisco packaging and stoichiometric composition of the native beta-carboxysome in Synechococcus elongatus PCC7942.
+Link: https://www.rcsb.org/structure/9FWV
+--------------------------------------------------
+Title: Targeting Apicomplexan Parasites: Structural and Functional Characterization of Cryptosporidium Thioredoxin Reductase as a Novel Drug Target
+Link: https://www.rcsb.org/structure/9G92
+--------------------------------------------------
+Title: Molecular basis of pyruvate transport and inhibition of the human mitochondrial pyruvate carrier.
+Link: https://www.rcsb.org/structure/9GIV
+--------------------------------------------------
+Title: Microcrystallization and room-temperature serial crystallography structure of human cytochrome P450 3A4.
+Link: https://www.rcsb.org/structure/9GK1
+--------------------------------------------------
+Title: UFC1 reveals the multifactorial and plastic nature of oxyanion holes in E2 conjugating enzymes.
+Link: https://www.rcsb.org/structure/9GLH
+--------------------------------------------------
+Title: CryoEM structure of the native Chlamydomonas reinhardtii Flagella Membrane Glycoprotein 1B.
+Link: https://www.rcsb.org/structure/9GOS
+--------------------------------------------------
+Title: Towards new antibiotics: P. aeruginosa FabF ligands discovered by crystallographic fragment screening followed by hit expansion.
+Link: https://www.rcsb.org/structure/9GQV
+--------------------------------------------------
+Title: A CK2 alpha ' mutant indicating why CK2 alpha and CK2 alpha ', the isoforms of the catalytic subunit of human protein kinase CK2, deviate in affinity to CK2 beta.
+Link: https://www.rcsb.org/structure/9HK5
+--------------------------------------------------
+Title: Redox-State-Dependent Structural Changes within a Prokaryotic 6-4 Photolyase.
+Link: https://www.rcsb.org/structure/9HNK
+--------------------------------------------------
+Title: Structural Insight Into a Human H Ferritin@Gold-Monocarbene Adduct: Aurophilicity Revealed in a Biological Context.
+Link: https://www.rcsb.org/structure/9HQ6
+--------------------------------------------------
+Title: A cysteine-less and ultra-fast split intein rationally engineered from being aggregation-prone to highly efficient in protein trans-splicing.
+Link: https://www.rcsb.org/structure/9HTH
+--------------------------------------------------
+Title: Velvet domain of the transcriptional regulator VeA
+Link: https://www.rcsb.org/structure/9I2S
+--------------------------------------------------
+Title: Chemically Induced Nuclear Pore Complex Protein Degradation via TRIM21.
+Link: https://www.rcsb.org/structure/9II5
+--------------------------------------------------
+Title: Single Disulfide Bond in Host Defense Thanatin Analog Peptides: Antimicrobial Activity, Atomic-Resolution Structures and Target Interactions.
+Link: https://www.rcsb.org/structure/9IKO
+--------------------------------------------------
+Title: Competitive Ligand-Induced Recruitment of Coactivators to Specific PPAR alpha / delta / gamma Ligand-Binding Domains Revealed by Dual-Emission FRET and X-Ray Diffraction of Cocrystals.
+Link: https://www.rcsb.org/structure/9IWJ
+--------------------------------------------------
+Title: Structure-based design of potent and selective inhibitors targeting RIPK3 for eliminating on-target toxicity in vitro
+Link: https://www.rcsb.org/structure/9IWW
+--------------------------------------------------
+Title: Structural basis of urea transport by Arabidopsis thaliana DUR3.
+Link: https://www.rcsb.org/structure/9J7C
+--------------------------------------------------
+Title: Unusual Self-Hydroxylation in 4-Histidine Tetrad-Supporting Nonheme Iron Center.
+Link: https://www.rcsb.org/structure/9JET
+--------------------------------------------------
+Title: Cryo-EM structure of a full length K2P ion channel.
+Link: https://www.rcsb.org/structure/9JGZ
+--------------------------------------------------
+Title: Gating mechanism of the two-pore-domain potassium channel THIK1
+Link: https://www.rcsb.org/structure/9JH1
+--------------------------------------------------
+Title: Discovery of YJZ5118 : A Potent and Highly Selective Irreversible CDK12/13 Inhibitor with Synergistic Effects in Combination with Akt Inhibition.
+Link: https://www.rcsb.org/structure/9JK1
+--------------------------------------------------
+Title: Shigella effector IpaH1.4 subverts host E3 ligase RNF213 to evade antibacterial immunity.
+Link: https://www.rcsb.org/structure/9JTA
+--------------------------------------------------
+Title: Structure of a lasso peptide bound ET B receptor provides insights into the mechanism of GPCR inverse agonism.
+Link: https://www.rcsb.org/structure/9KDF
+--------------------------------------------------
+Title: Rationally designing P450BM3-H to excavate a novel channel for product exit and enhance overall performance.
+Link: https://www.rcsb.org/structure/9KGP
+--------------------------------------------------
+Title: Structure of a photosystem II-FCPII supercomplex from a haptophyte reveals a distinct antenna organization
+Link: https://www.rcsb.org/structure/9KQB
+--------------------------------------------------
+Title: DEK-nucleosome structure shows DEK modulates H3K27me3 and stem cell fate
+Link: https://www.rcsb.org/structure/9L1X
+--------------------------------------------------
+Title: Cryo-EM structures of a Xanthomonas phage: Insights into viral architecture and implications for the model phage HK97.
+Link: https://www.rcsb.org/structure/9LBM
+--------------------------------------------------
+Title: Crystal structure of T2R-TTL-YQVB15 complex
+Link: https://www.rcsb.org/structure/9LNL
+--------------------------------------------------
+Title: Crystal structure of T2R-TTL-YQVB6 Complex
+Link: https://www.rcsb.org/structure/9LNV
+--------------------------------------------------
+Title: Crystal structure of T2R-TTL-YQVB8 Complex
+Link: https://www.rcsb.org/structure/9LNW
+--------------------------------------------------
+Title: Crystal structure of T2R-TTL-YQVB9 Complex
+Link: https://www.rcsb.org/structure/9LNX
+--------------------------------------------------
+Title: The lineage-specific tRNA recognition mechanism of bacterial trptophanyl-tRNA synthetase and its implications for inhibitor discover
+Link: https://www.rcsb.org/structure/9LOT
+--------------------------------------------------
+Title: Crystal Structure and Catalytic Mechanism of the cis-Eunicellane Cyclase AriE.
+Link: https://www.rcsb.org/structure/9LPB
+--------------------------------------------------
+Title: Identification of RIPK3 as a target of flavonoids for anti-necroptosis in vitro
+Link: https://www.rcsb.org/structure/9LVG
+--------------------------------------------------
+Title: Discovery of ATX968: An Orally Available Allosteric Inhibitor of DHX9.
+Link: https://www.rcsb.org/structure/9MFO
+--------------------------------------------------
+Title: Intrinsically Disordered Peptide Nanofibers from A Structured Motif within Proteins
+Link: https://www.rcsb.org/structure/9MFU
+--------------------------------------------------
+Title: Instrumentation and methods for efficient time-resolved X-ray crystallography of biomolecular systems with sub-10 ms time resolution.
+Link: https://www.rcsb.org/structure/9MP3
+--------------------------------------------------
+Title: Structure of the Staphylococcus aureus bacteriophage 80 alpha neck shows details of the DNA, tail completion protein, and tape measure protein.
+Link: https://www.rcsb.org/structure/9MU3
+--------------------------------------------------
+Title: Structure and Mechanism of Human Phosphatidylserine Synthase 2 and Its Regulation in SREBP pathways
+Link: https://www.rcsb.org/structure/9N0X
+--------------------------------------------------
+Title: Cryo-EM structures define the electron bifurcating flavobicluster and ferredoxin binding site in an archaeal Nfn-Bfu transhydrogenase.
+Link: https://www.rcsb.org/structure/9N5U
+--------------------------------------------------
+Title: Structure of human substrate-free 26S proteasome in the presence of ATPgS and MG-132,SA-like state (composite map)
+Link: https://www.rcsb.org/structure/9NKF
+--------------------------------------------------
+Title: Structure of substrate engaged MIDN-bound human 26S proteasome, EB-MIDN
+Link: https://www.rcsb.org/structure/9NKG
+--------------------------------------------------
+Title: Structure of substrate engaged MIDN-bound human 26S proteasome, EB MIDN_UBL state
+Link: https://www.rcsb.org/structure/9NKI
+--------------------------------------------------
+Title: Structure of substrates-engaged MIDN-bound human 26S proteasome,ED-MIDN state (Composite map)
+Link: https://www.rcsb.org/structure/9NKJ
+--------------------------------------------------
+Title: Cryo-EM Structure of HIV-1 Reverse Transcriptase with N -Phenyl-1-(phenylsulfonyl)-1 H -1,2,4-triazol-3-amine: A New HIV-1 Non-nucleoside Inhibitor.
+Link: https://www.rcsb.org/structure/9NLP
+--------------------------------------------------
+Title: Deazaguanylation is a nucleobase-protein conjugation required for type IV CBASS immunity.
+Link: https://www.rcsb.org/structure/9NTN
+--------------------------------------------------
+Title: From DNA-Encoded Library Screening to AM-9747 - an MTA-Cooperative PRMT5 Inhibitor with Potent Oral in vivo Efficacy
+Link: https://www.rcsb.org/structure/9NWY
+--------------------------------------------------
+Title: Structure of Hailong HalA in complex with oligodeoxyadenylate
+Link: https://www.rcsb.org/structure/9NYI
+--------------------------------------------------
+Title: In situ cryo-ET visualization of mitochondrial depolarization and mitophagic engulfment
+Link: https://www.rcsb.org/structure/9O6S
+--------------------------------------------------
+Title: Crystal structure of nucleoside-diphosphate kinase from Cryptosporidium parvum in complex with citrate
+Link: https://www.rcsb.org/structure/9OD6
+--------------------------------------------------
+Title: Structure of the turnip yellows virus particles.
+Link: https://www.rcsb.org/structure/9Q8J
+--------------------------------------------------
+Title: The specificity of RNA packaging in isometric RNA plant viruses is principally determined by replication
+Link: https://www.rcsb.org/structure/9QVE
+--------------------------------------------------
+Title: A Structural Basis for the Stereospecificity of Multiple Inositol Polyphosphate Phosphatases
+Link: https://www.rcsb.org/structure/9QYY
+--------------------------------------------------
+Title: The X-ray Crystallographic Structure of oligo-1,6-glucosidase from Paenibacillus sp. STB16
+Link: https://www.rcsb.org/structure/9U7V
+--------------------------------------------------
+Title: Cryo-EM structure of Pyruvate carboxylase from Mycobacterium tuberculosis in complex with Acetyl-CoA and ADP
+Link: https://www.rcsb.org/structure/9UBG
+--------------------------------------------------
+=======
+Summary
+=======
+Total Codes: 210
+Individual Citations: 104
+Codes Released Between 2025-05-04 and 2025-05-11
+Disclaimer: Only unique citations recorded for easy reading. This is not a comprehensive list :)
