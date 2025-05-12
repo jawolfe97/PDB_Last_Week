@@ -5,7 +5,7 @@ The code is easily adaptabile for different PDB Search API queries as well as an
 
 **System Requirements:**  
 
-Code was designed to be compatible with MAC, Windows, and Linux but was only tested on Windows with Python 3.8.5. This and may need additional re-formatting for Linux or MacOS.  
+Code was written with a lot of assistance from ChatGPT. It was designed to be compatible with MAC, Windows, and Linux but was only tested on Windows with Python 3.8.5. This and may need additional re-formatting for Linux or MacOS.  
 
 **Required Python Libraries:**    
 requests  
