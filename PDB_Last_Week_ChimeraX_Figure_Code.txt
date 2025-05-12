@@ -1,4 +1,6 @@
 close all; open 1HVR; open 1EMA; open 1BNA ; open 1MBN;
+cd "C:/Users/jawol/OneDrive/Desktop/Horne Lab Work/Career Search/LinkedIn Posts/0000_PDB_Last_Week";
+
 turn x -90 model #3;
 
 turn z -20 model #2;
@@ -16,5 +18,17 @@ view;
 
 
 ~show;~ribbon;
-
 select #1;ribbon sel; ~select; view;
+save "C:/Users/jawol/OneDrive/Desktop/Horne Lab Work/Career Search/LinkedIn Posts/0000_PDB_Last_Week/PDB_Last_Week_1.png" width 773 height 644 supersample 3 transparentBackground true;
+
+~show;~ribbon;
+select #2;ribbon sel; ~select; view;
+save "C:/Users/jawol/OneDrive/Desktop/Horne Lab Work/Career Search/LinkedIn Posts/0000_PDB_Last_Week/PDB_Last_Week_2.png" width 773 height 644 supersample 3 transparentBackground true;
+
+~show;~ribbon;
+select #3;ribbon sel; show sel; ~show :HOH; ~select; view;
+save "C:/Users/jawol/OneDrive/Desktop/Horne Lab Work/Career Search/LinkedIn Posts/0000_PDB_Last_Week/PDB_Last_Week_3.png" width 773 height 644 supersample 3 transparentBackground true;
+
+~show;~ribbon;
+select #4;ribbon sel; ~select; view;
+save "C:/Users/jawol/OneDrive/Desktop/Horne Lab Work/Career Search/LinkedIn Posts/0000_PDB_Last_Week/PDB_Last_Week_4.png" width 773 height 644 supersample 3 transparentBackground true;
