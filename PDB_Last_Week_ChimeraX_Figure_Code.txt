@@ -1,0 +1,27 @@
+close all; open 1HVR; open 1EMA; open 1BNA ; open 1MBN;
+turn x -90 model #3;
+
+turn z -20 model #2;
+
+turn y 45 model #1;
+turn x 180 model #1;
+
+color grey;
+
+set bg white;
+graphics silhouettes t;
+lighting depthCue f;
+
+view;
+
+
+~show;~ribbon;
+
+select #1;ribbon sel; ~select; view;
+
+
+#move x 0 models #1; move y -50 models #1; 
+#move x -50 models #2; move y 25 models #2;
+#move x 25 models #3; move y -25 models #3;
+#move x 25 models #4; move y 25 models #4;
+#view;
